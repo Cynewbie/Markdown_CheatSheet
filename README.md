@@ -1,4 +1,6 @@
 # Markdown_CheatSheet
 Study note for Markdown.
 
-<!-- <!-- コメントアウト -->  -->
+*コメントアウト
+[]([](コメント))
+[](<!-- コメント -->)
