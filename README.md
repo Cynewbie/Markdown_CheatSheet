@@ -3,7 +3,8 @@ Study note for Markdown.
 
 
 <pre></pre>
-<pre>`<pre></pre>`</pre>で囲った文はそのまま表示される
+`<pre></pre>`
+<pre></pre>で囲った文はそのまま表示される
 
 ・コメントアウト
 <pre>[](コメント)
